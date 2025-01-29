@@ -31,8 +31,8 @@
 - details: Additional information provided by the house owner about the property. 
 #### This dataset provides a comprehensive view of the factors that may influence rental prices. 
 ## Dashboard 
-![Image](https://github.com/user-attachments/assets/62044a7e-8029-43a6-8339-5b1f56ee739c)
 ![Image](https://github.com/user-attachments/assets/26ec2c02-3488-45d8-8bb1-352a1ddef443)
-![Image](https://github.com/user-attachments/assets/a9511cad-6aed-46c1-a7da-ccc0f8b2b983)
+![Image](https://github.com/user-attachments/assets/62044a7e-8029-43a6-8339-5b1f56ee739c)
 ![Image](https://github.com/user-attachments/assets/65ca454a-c88e-4eae-bf24-6042ee4ba46c)
 ![Image](https://github.com/user-attachments/assets/220c500a-8c2a-45d6-8a58-3f4ab8b75854)
+![Image](https://github.com/user-attachments/assets/a9511cad-6aed-46c1-a7da-ccc0f8b2b983)
